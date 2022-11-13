@@ -1,0 +1,27 @@
+*{
+    background-color: hotpink;
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5{
+    color:white
+}
+
+h1{
+    font-size: 44px;
+}
+p{
+    font-size: 22px;
+}
+
+.nav{
+    justify-content: space-around;
+}
+
+.nav a{
+    font-size: 24px;;
+    letter-spacing: 3px;
+    color:Red;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px white;
+}
